@@ -1,0 +1,101 @@
+1. Sāpes (bez medicīniska cēloņa, neieskaitot vēdera un galvas sāpes)
+2. Uzvedas kā jaunāka vecuma bērns
+3. Baidās pamēģināt kaut ko jaunu
+4. Izvairās skatīties citiem acīs
+5. Nevar koncentrēties, nekam nevar ilgstoši pievērst uzmanību
+6. Nevar nosēdēt mierīgi, nemierīgs vai hiperaktīvs
+7. Necieš, ja lietas nav savā vietā
+8. Nespēj pagaidīt, vēlas visu tūlīt
+9. Grauž lietas, kas nav ēdamas
+10. Ķeras klāt pieaugušajiem vai ir pārāk atkarīgs
+11. Pastāvīgi meklē palīdzību
+12. Apātisks vai nemotivēts
+13. Daudz raud
+14. Nežēlīgs pret dzīvniekiem
+15. Izaicinošs
+16. Viņa prasības jāizpilda nekavējoties
+17. Iznīcina savas lietas
+18. Iznīcina lietas, kas pieder citiem
+19. Aizsapņojas vai kavējas savās domās
+20. Nepaklausīgs
+21. Uztraukts par jebkuru izmaiņu ierastajā kārtībā
+22. Cietsirdība, vardarbība vai nežēlība pret citiem
+23. Neatbild, kad cilvēki ar viņu runā
+24. Grūtības sekot norādījumiem
+25. Nesatiek ar citiem bērniem
+26. Pārāk nopietns, uzvedas kā mazs pieaugušais
+27. Liekas, ka nejūtas vainīgs pēc sliktas uzvešanās
+28. Traucē citiem bērniem
+29. Ātri aizkaitināms
+30. Viegli kļūst greizsirdīgs
+31. Ēd vai dzer to, kas nav domāts ēšanai (paskaidrojiet):
+32. Baidās no konkrētiem dzīvniekiem, situācijām, vietām (aprakstiet):
+33. Emocionāli ir viegli ievainojams
+34. Bieži savainojas, iekļūst nelaimes gadījumos
+35. Bieži kaujas
+36. Visu ņem un izvanda
+37. Kļūst pārāk satraukts, kad tuvumā nav vecāku
+38. Eksplozīva un neparedzama uzvedība
+39. Galvas sāpes (bez medicīniska cēloņa)
+40. Sit citiem
+41. Ilgstoši aiztur elpu
+42. Bez nodoma ievaino dzīvniekus vai cilvēkus
+43. Izskatās nelaimīgs bez pamatota iemesla
+44. Bieži dusmojas
+45. Nelabums, slikta dūša (bez medicīniska cēloņa)
+46. Nervozas kustības vai raustīšanās (aprakstiet):
+47. Nervozs, sasprindzis
+48. Neizpilda prasības
+49. Baidās no pirmsskolas
+
+50. Pārguris
+51. Dīdās, nemierīgs
+52. Citi bērni viņu ķircina
+53. Fiziski uzbrūk cilvēkiem
+54. Plūkā degunu, ādu vai citas ķermeņa daļas (aprakstiet):
+55. Pārāk daudz spēlējas ar saviem dzimumorgāniem
+56. Slikti koordinēts vai neveikls
+57. Problēmas ar acīm (bez medicīniska cēloņa) (aprakstiet):
+58. Sods neietekmē viņa uzvedību
+59. Ātri pārmetas no vienas darbības uz citu
+60. Izsitumi vai citas ādas problēmas (bez medicīniska cēloņa)
+61. Atsakās ēst
+62. Atsakās piedalīties aktīvās rotaļās
+63. Atkārtoti šūpo galvu vai ķermeni
+64. Uzmanība viegli novēršas
+65. Melo vai mānās
+66. Daudz kliedz
+67. Neatsaucīgs uz izrādītu sirsnību
+68. Nepārliecināts par sevi, viegli satraucas
+69. Savtīgs vai negrib dalīties
+70. Maz pauž sirsnīgu attieksmi pret citiem.
+71. Izrāda maz interesi par apkārt esošajām lietām
+72. Izrāda pārāk maz baiļu situācijās, kad iespējams savainoties
+73. Pārāk kautrīgs vai bikls
+74. Nepatīk citiem bērniem
+75. Pārāk aktīvs
+76. Runas problēmas (aprakstiet):
+77. Skatās vienā punktā, liekas iegrimis domās
+78. Vēdera sāpes vai krampji vēderā ( bez medicīniska cēloņa)
+79. Pārāk pakļaujas noteikumiem
+80. Dīvaina uzvedība (aprakstiet):
+81. Spītīgs, saīdzis vai čīkstīgs
+82. Pēkšņas garastāvokļa vai emociju izmaiņas
+83. Bieži saīgst
+84. Bieži ķircina citus
+85. Dusmu lēkmes vai ātri aizsvilstas
+86. Pārāk norūpējies par kārtīgumu vai tīrību
+87. Pārāk bailīgs vai bažīgs
+88. Neatsaucīgs, nesadarbojas ar citiem
+89. Mazaktīvs, lēni kustas vai trūkst enerģijas
+90. Nelaimīgs, bēdīgs vai nomākts
+91. Netipiski skaļš
+92. Satraucas nepazīstamu cilvēku klātbūtnē vai jaunās situācijās (aprakstiet):
+93. Vemj ( bez medicīniska cēloņa)
+94. Netīrīgs izskats
+95. Aiziet prom, klīst apkārt savā nodabā
+96. Grib daudz uzmanības
+97. Činkst
+98. Ierāvies sevī, neiesaistās darbībās ar citiem
+
+99. Uztraucas

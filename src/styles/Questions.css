@@ -1,0 +1,67 @@
+/* Questions.css */
+
+.questions-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* 3 columns */
+  gap: 10px; /* Spacing between grid items */
+  padding: 100px 40px;
+}
+
+.question-item {
+  display: flex; /* Aligns the input box and question text */
+  align-items: center; /* Centers items vertically */
+}
+
+/* Hide arrows for number inputs in Webkit browsers like Chrome, Safari */
+.question-input::-webkit-outer-spin-button,
+.question-input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Hide arrows for number inputs in Firefox */
+.question-input[type=number] {
+  -moz-appearance: textfield;
+}
+
+/* General styles for question-input */
+.question-input {
+  width: 12px; /* Adjust as necessary */
+  margin-right: 10px;
+  padding: 8px;
+  border: none;
+  border-radius: 8px;
+  box-shadow: 0px 2px 4px rgba(0,0,0,0.3);
+  outline: none;
+}
+
+.question-input.selected {
+  background-color: #007bff; /* Change background color for selected input */
+  color: #ffffff;
+}
+.question {
+  text-align: left;
+  padding: 4px 8px;
+  margin: 4px;
+  border-radius: 8px;
+  box-shadow: 0px 2px 4px rgba(0,0,0,0.3);
+}
+
+.question.selected{
+  background-color: #007bff;
+  color: #ffffff;
+}
+
+
+.subquestion {
+  text-align: left;
+  padding: 4px 8px;
+  margin: 4px;
+  border-radius: 8px;
+  box-shadow: 0px 2px 4px rgba(0,0,0,0.3);
+  background-color: #90EE90;
+}
+
+.subquestion.selected{
+  background-color: #8CBF6B;
+}
